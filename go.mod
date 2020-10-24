@@ -1,3 +1,3 @@
-module github.com/sh3rp/streem
+module github.com/sh3rp/stream
 
 go 1.13
